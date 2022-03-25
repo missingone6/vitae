@@ -6,9 +6,9 @@
 
 ### 网页端使用
 
-打开dist目录，点击index.html即可在网页端使用
+下载dist目录，进入dist目录，点击index.html即可在网页端使用
 
 ### window系统App使用
 
-下载package目录，j进入win-unpacked目录，双击vitaeApp.exe即可使用
+下载package目录，进入win-unpacked目录，双击vitaeApp.exe即可使用
 
