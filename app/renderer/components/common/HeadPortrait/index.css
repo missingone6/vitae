@@ -1,0 +1,27 @@
+.photo_box {
+  position: absolute;
+  right: 50px;
+  top: 25px;
+  z-index: 3;
+  width: 106px;
+  height: 114px;
+  overflow: hidden;
+  background-repeat: no-repeat;
+  background-size: auto 100%;
+  background-position: 50%;
+}
+
+.photo_img {
+  width: 106px;
+  height: 114px;
+}
+
+.photo_input {
+  height: 114px;
+  width: 106px;
+  position: relative;
+  bottom: 114px;
+  opacity: 0;
+  cursor: pointer;
+
+}

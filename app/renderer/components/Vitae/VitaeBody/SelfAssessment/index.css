@@ -1,0 +1,52 @@
+.resume_content{
+  margin-top:26px;
+}
+.module_tit{
+  font-size:16px;
+  color:#1575bf;
+  border-color:#1575bf;
+  line-height: 36px;
+  height: 36px;
+  font-weight: 700;
+  overflow: hidden;
+  border-bottom: 1px solid #1575bf;
+  white-space: nowrap;
+}
+.list_top{
+  min-height: 20px;
+  font-size:13px;
+}
+.list_top li{
+  float: left;
+  width: 33.33%;
+  font-weight: 700;
+}
+.list_top li:nth-child(3){
+  text-align: right;
+}
+.ql-editor{
+  font-size:13px;
+  margin-top:6px;
+  line-height:1.9;
+}
+.ql-editor p{
+  font-size: 14px;
+}
+.ql-editor p strong{
+  color: #555;
+}
+.content_list{
+  margin-top: 14px;
+}
+.listStyleCircle li::before{
+  content: "\2022"!important;
+  color: #666;
+  padding-right: 8px;
+}
+
+
+
+.time,
+.name{
+  display: block;
+}

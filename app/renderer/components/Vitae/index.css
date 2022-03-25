@@ -1,0 +1,11 @@
+.shade{
+  background-color: #fff;
+}
+.box{
+  position: relative;
+  width: 820px;
+  margin: 0 auto;
+  border: 6px solid #00bcd4;
+  border-radius: 15px;
+  cursor: pointer;
+}

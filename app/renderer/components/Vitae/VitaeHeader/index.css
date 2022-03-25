@@ -1,0 +1,23 @@
+.header{
+  width: 809px;
+  min-height: 50px;
+  background-color: #00bcd4;
+  
+}
+.header button{
+  margin: 10px 0;
+  height: 30px;
+  width: 80px;
+  color: white;
+  background-color: transparent;
+  border-radius: 5px;
+  border: 2px solid #fff;
+  cursor: pointer;
+}
+.fl{
+  float: left;
+}
+
+.fr{
+  float: right;
+}
